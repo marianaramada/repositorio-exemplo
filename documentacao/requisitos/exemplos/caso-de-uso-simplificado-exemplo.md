@@ -6,7 +6,9 @@
 | 1.0 | Versão Inicial do Arquivo | Mariana Soller Ramada  | 08/04/2025 |
 
 ## **Descrição**
-Esta funcionalidade representa um benefício que as empresas associadas (Memberships) possuem para realizar a formação de recursos humanos. Esta funcionalidade permite que o representante da empresa associada indique funcionários ou outras pessoas para cursarem formações como: cursos de especialização, curta duração ou bootcamps ofertados pelo AKCIT. Permite, também, o acompanhamento do status das indicações e do andamento dos colaboradores que foram matriculados.   
+Representa um benefício que as empresas associadas (Memberships) possuem para realizar a formação do seus recursos humanos. 
+
+Permite que o representante da empresa associada indique funcionários ou outras pessoas para cursarem formações como: cursos de especialização, curta duração ou bootcamps ofertados pelo AKCIT. Permite, também, o acompanhamento do status das indicações e do andamento dos colaboradores que foram matriculados.   
 
 ## **Ator(es)**
 Representante da empresa associada
